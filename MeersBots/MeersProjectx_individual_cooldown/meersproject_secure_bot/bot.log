@@ -1,0 +1,27 @@
+2026-11-10 00:30:14,901 [WARNING] [discord.client] PyNaCl is not installed, voice will NOT be supported
+2026-11-10 00:30:14,902 [WARNING] [discord.client] davey is not installed, voice will NOT be supported
+2026-11-10 00:30:14,903 [INFO] [discord.client] logging in using static token
+2026-11-10 00:30:27,684 [WARNING] [discord.client] PyNaCl is not installed, voice will NOT be supported
+2026-11-10 00:30:27,684 [WARNING] [discord.client] davey is not installed, voice will NOT be supported
+2026-11-10 00:30:27,686 [INFO] [discord.client] logging in using static token
+2026-11-10 00:30:28,834 [INFO] [meersproject] Синхронизировано slash-команд: 11
+2026-11-10 00:30:29,628 [INFO] [discord.gateway] Shard ID None has connected to Gateway (Session ID: 0031e9928cc38c23457910f741d7c5b2).
+2026-11-10 00:30:31,644 [INFO] [meersproject] Бот онлайн: 123verify#1850 (1568279002265952316)
+2026-11-10 14:48:54,141 [WARNING] [discord.client] PyNaCl is not installed, voice will NOT be supported
+2026-11-10 14:48:54,141 [WARNING] [discord.client] davey is not installed, voice will NOT be supported
+2026-11-10 14:48:54,143 [INFO] [discord.client] logging in using static token
+2026-11-10 14:48:55,389 [INFO] [meersproject] Синхронизировано slash-команд: 11
+2026-11-10 14:48:56,545 [INFO] [discord.gateway] Shard ID None has connected to Gateway (Session ID: 187e11f32a1eb0d99a4e904ad6c09924).
+2026-11-10 14:48:58,557 [INFO] [meersproject] Бот онлайн: 123verify#1850 (1568279002265952316)
+2026-11-10 15:08:16,344 [WARNING] [discord.client] PyNaCl is not installed, voice will NOT be supported
+2026-11-10 15:08:16,344 [WARNING] [discord.client] davey is not installed, voice will NOT be supported
+2026-11-10 15:08:16,346 [INFO] [discord.client] logging in using static token
+2026-11-10 15:08:30,323 [WARNING] [discord.client] PyNaCl is not installed, voice will NOT be supported
+2026-11-10 15:08:30,323 [WARNING] [discord.client] davey is not installed, voice will NOT be supported
+2026-11-10 15:08:30,324 [INFO] [discord.client] logging in using static token
+2026-11-10 15:08:31,645 [INFO] [meersproject] Синхронизировано slash-команд: 11
+2026-11-10 15:08:32,507 [INFO] [discord.gateway] Shard ID None has connected to Gateway (Session ID: 8ff44af564df3940a671670f102c884c).
+2026-11-10 15:08:34,525 [INFO] [meersproject] Бот онлайн: 123verify#1850 (1568279002265952316)
+2026-11-10 15:30:16,147 [WARNING] [discord.client] PyNaCl is not installed, voice will NOT be supported
+2026-11-10 15:30:16,147 [WARNING] [discord.client] davey is not installed, voice will NOT be supported
+2026-11-10 15:30:16,148 [INFO] [discord.client] logging in using static token
